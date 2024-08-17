@@ -8,8 +8,6 @@ This repository contains a responsive clone of the Dribbble website built using 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Demo
 Check out a live demo of the project [here](https://rishabhsharma33.github.io/Dribbble-Clone/).
